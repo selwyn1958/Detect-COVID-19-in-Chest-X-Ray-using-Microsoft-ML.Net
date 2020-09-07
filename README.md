@@ -1,6 +1,8 @@
 # Detect-COVID-19-in-Chest-X-Ray-using-Microsoft-ML.Net
 Detecting COVID-19 in X-ray images using Microsoft ML.Net, TensorFlow, Technologies
+
 Dataset Initiation Process
+
 Joseph Paul Cohen is a Postdoctoral Fellow at the Center for Artificial Intelligence in Medicine & Imaging at Stanford. Joseph was a Postdoctoral Fellow at Mila and the University of Montreal. Joseph is currently focusing on the limits of AI in medicine with respect to computer vision and clinical data. He holds a PhD Degree in Computer Science and Machine Learning from the University of Massachusetts Boston.
 
 Dr. Joseph Paul Cohen collected X-Ray images of COVID-19 Cases and Published them in GitHub Repo.
