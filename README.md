@@ -16,9 +16,13 @@ Our heartfelt thanks to Dr. Joseph Paul Cohen and Microsoft Corporation for shar
 Installed Dependent ML.Net Components 
 
 Microsoft.ML
+
 Microsoft.ML.ImageAnalystics
+
 Microsoft.ML.TensorFlow
+
 SciSharp.TensorFlow.Redist
+
 
 Labelling: Corona Positive Cases and Unclear Cases
 
